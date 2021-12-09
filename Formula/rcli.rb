@@ -2,7 +2,7 @@ class Rcli < Formula
   desc "Command Line tool to install and switch between R versions"
   homepage "https://github.com/pat-s/rcli"
   url "https://github.com/pat-s/rcli/releases/download/v0.1.0-beta/rcli"
-  sha256 "a6c575599f5854f65ed325036f7d802d51902082fe18cd9215313bf4bdb9d677"
+  sha256 "99f6ac9bdbc61de6473e9d3cabeb4b7ffbe905cb764292b2336bd85058e18bb4"
   head "https://github.com/pat-s/rcli.git"
   license "MIT License"
 
