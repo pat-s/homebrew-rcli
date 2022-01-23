@@ -9,4 +9,6 @@ class Rcli < Formula
   def install
     bin.install "rcli"
   end
+
+  depends_on cask: 'r'
 end
