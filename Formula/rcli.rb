@@ -1,10 +1,10 @@
 class Rcli < Formula
   desc "Command line tool to install and switch between R versions"
   homepage "https://github.com/pat-s/rcli"
-  url "https://github.com/pat-s/rcli/releases/download/0.7.1/rcli"
-  sha256 "5e82b6a48b277e7ee20bd71caaef5e95be2a1b2e1d291e0ae3e2f697b37736f7"
+  url "https://github.com/pat-s/rcli/releases/download/0.7.2/rcli"
+  sha256 "0b2ac25f2dcc32c4a0a5af4814b816b3c04951bc0dccce951a2833019de20140"
   license "LGPL-3.0"
-  version "0.7.1"
+  version "0.7.2"
 
   def install
     bin.install "rcli"
